@@ -31,15 +31,15 @@ https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",DISNEY CHANNEL
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",DISNEY
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/7298?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",DISNEY CINEMA HD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",DISNEY CINEMA
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/57?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",NICKELODEON 4 TEEN
+#EXTINF:0 tvg-country="FR" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Kids",NICKELODEON 4 TEEN
 http://185.71.64.167:80/7654321/1234567/78513?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",NICKELODEON HD
+#EXTINF:0 tvg-country="FR" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Kids",NICK
 http://185.71.64.167:80/7654321/1234567/78514?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",NICKELODEON JUNIOR HD
+#EXTINF:0 tvg-country="FR" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids",NICK JR
 http://185.71.64.167:80/7654321/1234567/78512?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -71,7 +71,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b99
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28774?play_token=7IXreY07Xo&token=QhVcUhcJRggXVAVUVFNUAAQOU1JVUFVRAFAABQcGVwUID1JXAVVUAFRGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1VUARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Action Movies
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&token=QhVcUhcJRggXVQFSU1QHDFgBBgRYVAFSXAAAAwdRUAVaAFEAV1JTUQBGGURBEkJRAFtpWgVEXlFdUwJZSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1ZZCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28777?play_token=V1D4GAfWM9&token=QhVcUhcJRggXAFACBVQBAVcOU1ZYBQFQBgANWANWUlgIAgBVUVBdV1NGGURBEkJRAFtpWgVEXlFdUwJWSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1RYCRsWQw0FRggXVQ1RAUQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAARDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwpQBhYc
@@ -81,9 +81,9 @@ http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28776?play_token=TqYjbN2ay8&toke
 http://62.210.127.217:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/28671?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
 http://185.59.222.189:25461/H3KiWgXk7O/RSK8FzEznN/110203?play_token=IcjkWcTtOq&token=GRdRWUpbQV9BCghWUVFWAlVWCl5TBAMEBgVWBQFVD1dbVl0BDgRaAAYRFEQQFxAGVQxnD1YVCVACU1YCA08aRBFQS2dQV0FfQQILV1VVWlIWTRoSW1pWQwlSUQsHWgsIUAIJFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO 2
 http://136.243.177.164/HBO2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO 3
 http://136.243.177.164/HBO3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Signature
 http://136.243.177.164/HBO/playlist.m3u8
