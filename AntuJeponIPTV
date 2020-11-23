@@ -1,0 +1,89 @@
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
+#EXTINF: -1 tvg-id="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia", NTV 7
+https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
+#EXTINF: -1 tvg-id="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia", 8TV
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
+#EXTINF: -1 tvg-id="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia", TV9
+https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
+#EXTINF: -1 tvg-id="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia", Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-id="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia", RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF: -1 tvg-id="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia",Astro Naura
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",DISNEY CHANNEL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/7298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",DISNEY CINEMA HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/57?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",NICKELODEON 4 TEEN
+http://185.71.64.167:80/7654321/1234567/78513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",NICKELODEON HD
+http://185.71.64.167:80/7654321/1234567/78514?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Kids",NICKELODEON JUNIOR HD
+http://185.71.64.167:80/7654321/1234567/78512?checkedby:iptvcat.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Kids/Animation",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids/Animation",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="Kids/Animation",CBeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Family",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Family",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids/Animation",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids/Animation",Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Kids/Animation",Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="Kids/Animation",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="Kids/Animation",Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="Kids/Animation",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
+http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28774?play_token=7IXreY07Xo&token=QhVcUhcJRggXVAVUVFNUAAQOU1JVUFVRAFAABQcGVwUID1JXAVVUAFRGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1VUARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
+http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&token=QhVcUhcJRggXVQFSU1QHDFgBBgRYVAFSXAAAAwdRUAVaAFEAV1JTUQBGGURBEkJRAFtpWgVEXlFdUwJZSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1ZZCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX
+http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28777?play_token=V1D4GAfWM9&token=QhVcUhcJRggXAFACBVQBAVcOU1ZYBQFQBgANWANWUlgIAgBVUVBdV1NGGURBEkJRAFtpWgVEXlFdUwJWSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1RYCRsWQw0FRggXVQ1RAUQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAARDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwpQBhYc
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Life
+http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28776?play_token=TqYjbN2ay8&token=QhVcUhcJRggXUlZeBAVUVgIBAVdWVVdbVAZRAFEHUlRYAQIBUAJWBwRGGURBEkJRAFtpWgVEXlFdUwJXSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1VTDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FX
+http://62.210.127.217:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/28671?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
+http://185.59.222.189:25461/H3KiWgXk7O/RSK8FzEznN/110203?play_token=IcjkWcTtOq&token=GRdRWUpbQV9BCghWUVFWAlVWCl5TBAMEBgVWBQFVD1dbVl0BDgRaAAYRFEQQFxAGVQxnD1YVCVACU1YCA08aRBFQS2dQV0FfQQILV1VVWlIWTRoSW1pWQwlSUQsHWgsIUAIJFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies",HBO Family
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
+http://136.243.177.164/HBO/playlist.m3u8
